@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="V-RightNow.ml" resolutions="1x,2x" timestamp="1494298325068">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="V-RightNow.ml" resolutions="1x,2x" timestamp="1494343972064">
   <folder name="css">
     <file name="site_global.css" crc="104922455"/>
-    <file name="master_b-master.css" crc="3919052910" ref="v–right-now"/>
-    <file name="nomq_preview_master_b-master.css" crc="4141685097" ref="v–right-now"/>
-    <file name="master_a-master.css" crc="444707214" ref="index"/>
+    <file name="master_a-master.css" crc="202203393" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3766389399" ref="index"/>
-    <file name="v_right-now.css" crc="456118443" ref="v–right-now"/>
-    <file name="nomq_v_right-now.css" crc="381421915" ref="v–right-now"/>
-    <file name="iefonts_v_right-now.css" crc="17241108" ref="v–right-now"/>
-    <file name="index.css" crc="477768376" ref="index"/>
-    <file name="nomq_index.css" crc="202408156" ref="index"/>
+    <file name="master_b-master.css" crc="3864155245" ref="v–right-now"/>
+    <file name="nomq_preview_master_b-master.css" crc="4141685097" ref="v–right-now"/>
+    <file name="index.css" crc="497986685" ref="index"/>
+    <file name="nomq_index.css" crc="263068317" ref="index"/>
     <file name="iefonts_index.css" crc="17241108" ref="index"/>
+    <file name="v_right-now.css" crc="431774918" ref="v–right-now"/>
+    <file name="nomq_v_right-now.css" crc="44163398" ref="v–right-now"/>
+    <file name="iefonts_v_right-now.css" crc="17241108" ref="v–right-now"/>
   </folder>
   <folder name="assets">
     <file name="background_music.mp3" crc="4228403422" seo="true" mt="1486149048000"/>
@@ -469,6 +469,6 @@
     <file name="u19988_2x.png" crc="34044298" ref="v–right-now"/>
     <file name="u19988-r_2x.png" crc="117608124" ref="v–right-now"/>
   </folder>
-  <file name="index.html" crc="412194991" seo="true" mt="1494298078363" redirect="true"/>
-  <file name="v–right-now.html" crc="417821616" seo="true" mt="1494298108065" redirect="true"/>
+  <file name="index.html" crc="470891037" seo="true" mt="1494298078363" redirect="true"/>
+  <file name="v–right-now.html" crc="4232357028" seo="true" mt="1494298108065" redirect="true"/>
 </manifest>

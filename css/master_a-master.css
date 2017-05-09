@@ -8,9 +8,9 @@
 
 #u18342
 {
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#DB3E3E59, endColorstr=#D6000000, GradientType=0);
 	border-style: solid;
 	border-color: #FFFFFF;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#DB3E3E59, endColorstr=#D6000000, GradientType=0);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#DB3E3E59', endColorstr='#D6000000', GradientType=0)";
 	border-width: 1px 3px 3px;
 }

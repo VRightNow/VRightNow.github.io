@@ -8,9 +8,9 @@
 
 #u19982
 {
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#DB3E3E59, endColorstr=#D6000000, GradientType=0);
 	border-style: solid;
 	border-color: #FFFFFF;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#DB3E3E59, endColorstr=#D6000000, GradientType=0);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#DB3E3E59', endColorstr='#D6000000', GradientType=0)";
 	border-width: 1px 3px 3px;
 }
@@ -183,13 +183,13 @@
 	{
 		background-image: url("../images/u19985_states_2x.png");
 		background-image: url("../images/u19985_states-a_2x.png");
-		background-size: 821px 45px;
+		background-size: 813px 37px;
 	}
 
 	.hidpi #u19985:hover #u19985_states
 	{
 		background-image: url("../images/u19985_states-r_2x.png");
-		background-size: 821px 45px;
+		background-size: 813px 37px;
 	}
 
 	#u19984_states
@@ -215,13 +215,13 @@
 	{
 		background-image: url("../images/u19984_states_2x.png");
 		background-image: url("../images/u19984_states-a_2x.png");
-		background-size: 821px 45px;
+		background-size: 813px 37px;
 	}
 
 	.hidpi #u19984:hover #u19984_states
 	{
 		background-image: url("../images/u19984_states-r_2x.png");
-		background-size: 821px 45px;
+		background-size: 813px 37px;
 	}
 
 	#u19985,#u19984,#u19986
@@ -252,13 +252,13 @@
 	{
 		background-image: url("../images/u19986_states_2x.png");
 		background-image: url("../images/u19986_states-a_2x.png");
-		background-size: 821px 45px;
+		background-size: 813px 37px;
 	}
 
 	.hidpi #u19986:hover #u19986_states
 	{
 		background-image: url("../images/u19986_states-r_2x.png");
-		background-size: 821px 45px;
+		background-size: 813px 37px;
 	}
 
 }
